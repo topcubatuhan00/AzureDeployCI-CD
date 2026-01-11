@@ -1,0 +1,1 @@
+namespace Todos.Test { public class AppTest { [Fact] public void AlwaysTrue_ShouldReturnTrue() { var result = true; Assert.True(result); } } }
