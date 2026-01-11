@@ -1,0 +1,24 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.bin
+/.vs/
+/.vs/Todos.WebAPI/v18/
+/obj/Debug/net8.0/Todos.WebAPI.AssemblyInfo.cs
+/.vs/Todos.WebAPI/v18/.futdcache.v2
+/.vs/Todos.WebAPI/v18/DocumentLayout.backup.json
+/obj/Debug/net8.0/Todos.WebAPI.AssemblyInfoInputs.cache
+/obj/Debug/net8.0/Todos.WebAPI.sourcelink.json
+/obj/Debug/net8.0/Todos.WebAPI.dll
+/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/obj/Debug/net8.0/apphost.exe
+/obj/Debug/net8.0/Todos.WebAPI.pdb
+/obj/Debug/net8.0/refint/Todos.WebAPI.dll
+/obj/Debug/net8.0/ref/Todos.WebAPI.dll
+/.vs/Todos.WebAPI/v18/DocumentLayout.json
+/bin/Debug/net8.0/Todos.WebAPI.exe
+/bin/Debug/net8.0/appsettings.json
+/bin/Debug/net8.0/Todos.WebAPI.dll
+/bin/Debug/net8.0/Todos.WebAPI.pdb
