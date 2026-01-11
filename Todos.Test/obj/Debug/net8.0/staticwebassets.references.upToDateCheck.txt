@@ -1,1 +1,0 @@
-C:\Users\BATU\Desktop\AzureDeployCI-CD\obj\Debug\net8.0\staticwebassets.build.json
