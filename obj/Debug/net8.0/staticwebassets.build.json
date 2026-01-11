@@ -1,11 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "y2oW5s+GvGz4w0kJkcBQmtGkBWxpUxpiI4tXpCpn+YU=",
-  "Source": "Todos.WebAPI",
-  "BasePath": "_content/Todos.WebAPI",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
-}
+{"Version":1,"Hash":"Lf90S07C0ks4Jptysc6vSWDV4djxm+8RayNP/GWVRq0=","Source":"Todos.WebAPI","BasePath":"/","Mode":"Root","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
